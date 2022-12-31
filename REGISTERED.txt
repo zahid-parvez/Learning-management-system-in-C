@@ -1,0 +1,7 @@
+name	lstname    gender	DOB		g-mail address	mobile no.	state	country	college			roll.no.		branch      year         course
+__________________________________________________________________________________________________________________________________________________________________________________________________________
+zahid	parvez	M	03-01-2002	zahid@vce.ac.in	9876543211	Andhra	India	Vasavi college of engineering	1602-20-773-076	IT	2024	python
+
+shadab	hussain	M	20-02-2002	shadab@gmail.com   98076543131	Telangana  India	Vasavi College Of Engineering 1602-20-737-082	IT/K        2024           SQL
+Ravi	Kumar	M	20-02-2003	ravi@gmail.com	9806748323INDIA	Himachal	INDIA	LPU                           	A-124/Z	             IT	2024	   SQL
+Ravi	Kumar	M	20-02-1999	ravi@gmail.com	8998676812	Assam	INDIA	Sastra University	               A/123-Z	            INF	2024 	   R-language

@@ -1,0 +1,7 @@
+fName	Lname	G	DOB	email_id	                               mobile.NO.	state	country	collegeName	                  roll.No.   	Branch  year	course_name
+_________________________________________________________________________________________________________________________________________________________________________________________________________________:-
+zahid	parvez	M	20-20-2002	zahid@gmail.com	9807654321           Andhra	INDIA	vasavi college of Engineering  	1602-20-737-076    IT 	2024	SQl
+
+Ravi	Kumar	M	20-02-1999	ravi@gmail.com	8998676812              Assam	   INDIA	Sastry University	A/123-Z	INF	2022	R-language
+
+arif	parvez	M	11-06-2006	arif@gmail.com	9087654321 	TelanganaINDIA	narayana college	786	MPC        2027	C-langauage

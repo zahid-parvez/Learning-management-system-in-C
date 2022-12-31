@@ -1,0 +1,34 @@
+CSE AND IT COURSES:-
+__________________________________________________________________________________________________________________________________________________________
+COURSE NAME  |   STARTING DATE   |     ENDING DATE    |   PRESENTED BY  |   OUTCOME 			
+_____________________________________________________________________________******************________________________________________________________
+1.C-language      |    12-02-2021           |     12-03-2021         |   Jhon .S                 |  basics of c-language
+2.C-lang 2.o        |    12-02-2021           |     12-03-2021         |   Jhon .S                 |  mastering  c-language with twisting concepts 
+3.PYTHON          |    12-02-2021           |     12-03-2021         |   mary .g               |  basics of python-language
+4.JAVA                 |    12-02-2021           |     12-03-2021         |   jerry                    |  basics of  java
+5.JAVA Script      |    12-02-2021           |     12-03-2021         |   tom .S                 |  basics of java script
+6.C-++	           |    12-02-2021           |     12-03-2021         |   David.S                |  basics of c++
+7.C#	           |    12-02-2021           |     12-03-2021         |   Jhon .S                 |  basics of c-#
+8.operat.Syst      |    12-02-2021           |     12-03-2021         |   Jhon .S                |  concepts of operating system
+9.kotlin               |    12-02-2021           |     12-03-2021         |   Sunny .S             |  basics of kotlin
+10.DSA                   |    12-02-2021           |     12-03-2021         |   Rutherford.        |  deep understanding of DSA
+11.RUBY               |    12-02-2021           |     12-03-2021         |   S.Ravi                  |  basics of ruby
+12.SQL                  |    12-02-2021           |     12-03-2021         |   Jhon .S                |  basics of SQL
+13.Mach.learing   |    12-02-2021           |     12-03-2021         |   walter                |  deep understanding of the machine learning 
+14.Visual stdio      |    12-02-2021           |     12-03-2021         |   Jhonny Depp .S  |  basics of visual stdio
+15.MATLAB          |    12-02-2021           |     12-03-2021         |   Walter Levin      |  master the matlab
+16.PHP basics      |    12-02-2021           |     12-03-2021         |   Jhon .S                |  basics of PHP
+17.Ruby	           |    12-02-2021           |     12-03-2021         |   Jhon .S                |  basics of Ruby 
+18.Perl	           |    12-02-2021           |     12-03-2021         |   Sirya Uben         |  basics of perl
+19.swift	           |    12-02-2021           |     12-03-2021         |   Arya                   |  basics of  swift 
+20.OOPS               |    12-02-2021           |     12-03-2021         |   Jhon .S                |  OOPS(java)
+**************************************************************************************************************************************
+**************************************************************************************************************************************
+NEW COURSES ADDED:=
+<-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+HTML	|Sourya sir	|20-03-2021                     |     30-04-2021                  |HTML
+HTML2.o	/Dannies Roy	/19-04-2021                       / 20-05-2021                      /Web document 
+Oracle    /Jack Maa 	/20-06-2021                   /20-07-2021                      /master in Oracle	
+Vim basics/Shadab Sir          /20-04-2021               /20-05-2021                           /Vim basics 
+R-language/Steve Roggers	/20-05-2021	/20-06-2021  		/R-language basics	
+ 
